@@ -1,0 +1,17 @@
+{
+    "session": {
+        "csrf_token": "L9K18AD8EB2n2JbFAqtlcMijOSRVGmta",
+        "rollout_hash": "c86f62fe51e1"
+    },
+    "login_data": {
+        "username": "chernozadsky",
+        "password": "1qaz2WSX3edc4RFV"
+    },
+    "writing_test": {
+        "1": "10",
+        "2": "20"
+    },
+    "another_section": {
+        "parameter": "value"
+    }
+}
